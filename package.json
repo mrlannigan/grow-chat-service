@@ -1,0 +1,20 @@
+{
+  "name": "grow-chat-service",
+  "version": "1.0.0",
+  "description": "Chat Service for Grow Developer Test",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlannigan/grow-chat-service.git"
+  },
+  "author": "Julian Lannigan <julian.lannigan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlannigan/grow-chat-service/issues"
+  },
+  "homepage": "https://github.com/mrlannigan/grow-chat-service#readme"
+}
